@@ -1,0 +1,7 @@
+host='smtp.office365.com'
+username='serveur@groupemichel.com'
+password='Serv00'
+smtpsecure='tls'
+port='587'
+senderaddress='serveur@groupemichel.com'
+receiveraddress='informatique@groupemichel.com'

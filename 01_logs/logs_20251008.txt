@@ -1,0 +1,236 @@
+Administrateur RH:LOGOUT:success:2025-10-08 12:20:44
+Administrateur RH:LOGIN:success:2025-10-08 12:30:18
+Administrateur RH:LOGOUT:success:2025-10-08 12:44:11
+Donald HOUNNANKAN:LOGIN:success:2025-10-08 12:44:33
+ANONYMOUS:LOGIN:success:2025-10-08 12:44:44
+ANONYMOUS:LOGIN:success:2025-10-08 12:45:07
+ANONYMOUS:LOGIN:success:2025-10-08 12:45:13
+ANONYMOUS:LOGIN:success:2025-10-08 12:46:53
+ANONYMOUS:LOGIN:success:2025-10-08 12:48:15
+ANONYMOUS:LOGIN:success:2025-10-08 12:48:48
+ANONYMOUS:LOGIN:success:2025-10-08 12:49:07
+Donald HOUNNANKAN:LOGIN:success:2025-10-08 12:53:15
+[2025-10-08 13:13:16] CLEANUP: Début du nettoyage des entrées antérieures au 2024-10-08
+[2025-10-08 13:13:16] CLEANUP: Nombre d'entrées trouvées à supprimer : 0
+[2025-10-08 13:13:16] CLEANUP: Aucune entrée ancienne à supprimer
+[2025-10-08 13:13:16] CLEANUP: Temps d'exécution : 0.02 secondes
+[2025-10-08 13:13:23] CLEANUP: Début du nettoyage des entrées antérieures au 2024-10-08
+[2025-10-08 13:13:23] CLEANUP: Nombre d'entrées trouvées à supprimer : 0
+[2025-10-08 13:13:23] CLEANUP: Aucune entrée ancienne à supprimer
+[2025-10-08 13:13:23] CLEANUP: Temps d'exécution : 0.01 secondes
+[2025-10-08 13:13:28] CLEANUP: Début du nettoyage des entrées antérieures au 2024-10-08
+[2025-10-08 13:13:28] CLEANUP: Nombre d'entrées trouvées à supprimer : 0
+[2025-10-08 13:13:28] CLEANUP: Aucune entrée ancienne à supprimer
+[2025-10-08 13:13:28] CLEANUP: Temps d'exécution : 0.03 secondes
+Donald HOUNNANKAN:LOGIN:success:2025-10-08 13:22:46
+[2025-10-08 13:44:09] CLEANUP: Début du nettoyage des entrées antérieures au 2024-10-08
+[2025-10-08 13:44:09] CLEANUP: Nombre d'entrées trouvées à supprimer : 0
+[2025-10-08 13:44:09] CLEANUP: Aucune entrée ancienne à supprimer
+[2025-10-08 13:44:09] CLEANUP: Temps d'exécution : 0.05 secondes
+[2025-10-08 13:44:19] CLEANUP: Début du nettoyage des entrées antérieures au 2024-10-08
+[2025-10-08 13:44:19] CLEANUP: Nombre d'entrées trouvées à supprimer : 0
+[2025-10-08 13:44:19] CLEANUP: Aucune entrée ancienne à supprimer
+[2025-10-08 13:44:19] CLEANUP: Temps d'exécution : 0.02 secondes
+[2025-10-08 13:44:26] CLEANUP: Début du nettoyage des entrées antérieures au 2024-10-08
+[2025-10-08 13:44:26] CLEANUP: Nombre d'entrées trouvées à supprimer : 0
+[2025-10-08 13:44:26] CLEANUP: Aucune entrée ancienne à supprimer
+[2025-10-08 13:44:26] CLEANUP: Temps d'exécution : 0.01 secondes
+[2025-10-08 13:48:51] CLEANUP: Début du nettoyage des entrées antérieures au 2024-10-08
+[2025-10-08 13:48:51] CLEANUP: Nombre d'entrées trouvées à supprimer : 96
+[2025-10-08 13:48:51] CLEANUP: Mode test activé - Aucune suppression effectuée
+[2025-10-08 13:48:51] CLEANUP: Temps d'exécution : 0.04 secondes
+[2025-10-08 13:49:56] CLEANUP: Début du nettoyage des entrées antérieures au 2024-10-08
+[2025-10-08 13:49:56] CLEANUP: Nombre d'entrées trouvées à supprimer : 96
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_TIRET_Morgan.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : TIRET Morgan (Task: 1, Employé: 1, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_GAUTRONNEAU_Blandine.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : GAUTRONNEAU Blandine (Task: 2, Employé: 2, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_FRISON_Jérémy.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : FRISON Jérémy (Task: 3, Employé: 3, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_PASCAUD_Jonathan.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : PASCAUD Jonathan (Task: 4, Employé: 4, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_ROY_Paul.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : ROY Paul (Task: 5, Employé: 5, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_DELETANG_Laetitia.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : DELETANG Laetitia (Task: 6, Employé: 6, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_GERSON_Mac Gyver.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : GERSON Mac Gyver (Task: 7, Employé: 7, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_RIVIERE_Fabien.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : RIVIERE Fabien (Task: 10, Employé: 10, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_MAUMY_Virginie.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : MAUMY Virginie (Task: 11, Employé: 11, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_GAREL_SIMON.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : GAREL SIMON (Task: 12, Employé: 12, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_MOUSSARD_ALEXIS.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : MOUSSARD ALEXIS (Task: 13, Employé: 13, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_BROXOLLE_VIVIEN.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : BROXOLLE VIVIEN (Task: 14, Employé: 14, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_DE PIAN_YANIS.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : DE PIAN YANIS (Task: 15, Employé: 15, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_CHAUMEREUIL_MATTHIEU.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : CHAUMEREUIL MATTHIEU (Task: 16, Employé: 16, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_DIAGNE_MARION.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : DIAGNE MARION (Task: 17, Employé: 17, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_MASSYRE_AMELINE.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : MASSYRE AMELINE (Task: 18, Employé: 18, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_NICAISE_CELINE.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : NICAISE CELINE (Task: 19, Employé: 19, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_PORTELA_REMI.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : PORTELA REMI (Task: 20, Employé: 20, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_FORT_QUENTIN.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : FORT QUENTIN (Task: 21, Employé: 21, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_JOLLY_VALENTIN.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : JOLLY VALENTIN (Task: 22, Employé: 22, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_SAYAH_DEBORAH.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : SAYAH DEBORAH (Task: 23, Employé: 23, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_KIMBEMBO_ODILON.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : KIMBEMBO ODILON (Task: 24, Employé: 24, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_GUERIN_NADEGE.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : GUERIN NADEGE (Task: 25, Employé: 25, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_LOPES_SYLVAIN.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : LOPES SYLVAIN (Task: 26, Employé: 26, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_SAIDI_IBRAHIM.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : SAIDI IBRAHIM (Task: 27, Employé: 27, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_ROCHARD_JASON.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : ROCHARD JASON (Task: 28, Employé: 28, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_VASSELIN_AURELIE.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : VASSELIN AURELIE (Task: 29, Employé: 29, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_PHILIP_PIERRICK.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : PHILIP PIERRICK (Task: 30, Employé: 30, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_RICHE_Elise.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : RICHE Elise (Task: 31, Employé: 31, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_GOEURY_Thomas.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : GOEURY Thomas (Task: 32, Employé: 32, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_BREMOND_Steve.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : BREMOND Steve (Task: 33, Employé: 33, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_NADAUD_Emeline.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : NADAUD Emeline (Task: 34, Employé: 34, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_SELLIER_Ludovic.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : SELLIER Ludovic (Task: 35, Employé: 35, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_WEISSGERBER_Hugo.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : WEISSGERBER Hugo (Task: 37, Employé: 37, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_BARRE_Valentin.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : BARRE Valentin (Task: 38, Employé: 38, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_PAYNAUD_Stéphane.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : PAYNAUD Stéphane (Task: 40, Employé: 40, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_GRANET_Clément.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : GRANET Clément (Task: 41, Employé: 41, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_FAUCHER_Lucien.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : FAUCHER Lucien (Task: 42, Employé: 42, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_PERROUX_Tom.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : PERROUX Tom (Task: 43, Employé: 43, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_LIEVRE_Michael.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : LIEVRE Michael (Task: 44, Employé: 44, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_BERNAZEAU--RAMDAOUI_Elias.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : BERNAZEAU--RAMDAOUI Elias (Task: 45, Employé: 45, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_AUDIGER_Jérémy.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : AUDIGER Jérémy (Task: 46, Employé: 46, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_VERINE_Samuel.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : VERINE Samuel (Task: 47, Employé: 47, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_MORIN_Alain.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : MORIN Alain (Task: 48, Employé: 48, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_TROUILLET_Arnaud.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : TROUILLET Arnaud (Task: 49, Employé: 49, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_LAURENT_Marc-Olivier.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : LAURENT Marc-Olivier (Task: 50, Employé: 50, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_GADRAT_Julien.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : GADRAT Julien (Task: 52, Employé: 52, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_IDIER_Cédric.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : IDIER Cédric (Task: 53, Employé: 53, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_KETTENBACH_MANON.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : KETTENBACH MANON (Task: 54, Employé: 54, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_THOMAS_Yanis.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : THOMAS Yanis (Task: 56, Employé: 56, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_LEBLANC_Enzo.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : LEBLANC Enzo (Task: 57, Employé: 57, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_TESSON_Johan.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : TESSON Johan (Task: 59, Employé: 59, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : TILLIT Jimmy (Task: 60, Employé: 60, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_DOS SANTOS_Yannick.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : DOS SANTOS Yannick (Task: 61, Employé: 61, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_SALOMON_Jannice.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : SALOMON Jannice (Task: 62, Employé: 62, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_JOUY_Joshua.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : JOUY Joshua (Task: 64, Employé: 64, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_HULEUX_Séverine.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : HULEUX Séverine (Task: 65, Employé: 65, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_FOLIO_Yannick.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : FOLIO Yannick (Task: 66, Employé: 66, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_PRUNIER_Christophe.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : PRUNIER Christophe (Task: 67, Employé: 67, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_CHATÉ_Alain.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : CHATÉ Alain (Task: 68, Employé: 68, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_ROGER_Anais.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : ROGER Anais (Task: 70, Employé: 70, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_FOUDALOUX_Ludivine.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : FOUDALOUX Ludivine (Task: 72, Employé: 72, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_ROUGIER_LOUIS.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : ROUGIER LOUIS (Task: 73, Employé: 73, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_COSSEAU_Hervé.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : COSSEAU Hervé (Task: 75, Employé: 75, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_BISSON_Esteban.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : BISSON Esteban (Task: 76, Employé: 76, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_CHADUTEAU_Léa.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : CHADUTEAU Léa (Task: 81, Employé: 80, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_BELOUFA_Ishac.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : BELOUFA Ishac (Task: 84, Employé: 84, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_QUET_Mathis.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : QUET Mathis (Task: 89, Employé: 89, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_BOUSSAINGAULT_Jean-Michel.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : BOUSSAINGAULT Jean-Michel (Task: 92, Employé: 92, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_ROYER_Lukas.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : ROYER Lukas (Task: 100, Employé: 99, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_ALEXANDRE_SARAH.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : ALEXANDRE SARAH (Task: 102, Employé: 101, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_CAMUS_THAO.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : CAMUS THAO (Task: 103, Employé: 102, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_DEROY_JULIEN.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : DEROY JULIEN (Task: 104, Employé: 103, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_CASSINA_CLEMENT.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : CASSINA CLEMENT (Task: 105, Employé: 104, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_ROCHAIS_ANTHONY.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : ROCHAIS ANTHONY (Task: 106, Employé: 105, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_MAZAN_DORINE.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : MAZAN DORINE (Task: 107, Employé: 106, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_REMAUD_MANON.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : REMAUD MANON (Task: 108, Employé: 107, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_DECOOPMAN_GUILLAUME.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : DECOOPMAN GUILLAUME (Task: 109, Employé: 108, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_METAIS_MAXIME.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : METAIS MAXIME (Task: 110, Employé: 109, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_MICHEL_BRYAN.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : MICHEL BRYAN (Task: 111, Employé: 110, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_OUADDAH_FRANCK.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : OUADDAH FRANCK (Task: 112, Employé: 111, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_MAHON_Laura.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : MAHON Laura (Task: 116, Employé: 115, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_DIAO_IBRAHIMA .pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : DIAO IBRAHIMA  (Task: 120, Employé: 119, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_SOARES_Gregory.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : SOARES Gregory (Task: 121, Employé: 120, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_SIX_DENIS.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : SIX DENIS (Task: 124, Employé: 122, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_BONNEAU_MAXENCE.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : BONNEAU MAXENCE (Task: 137, Employé: 136, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_BRILLANT_DYLAN.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : BRILLANT DYLAN (Task: 145, Employé: 144, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_KOCAK_VOLKAN.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : KOCAK VOLKAN (Task: 150, Employé: 149, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_COUTURIER_YOAN.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : COUTURIER YOAN (Task: 151, Employé: 150, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_MALHOUROUX_Enzo.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : MALHOUROUX Enzo (Task: 152, Employé: 151, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_CLOCHARD _ENZO.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : CLOCHARD  ENZO (Task: 153, Employé: 152, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_GARCIA_AMANDINE.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : GARCIA AMANDINE (Task: 156, Employé: 155, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_KRITHARI_Marion.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : KRITHARI Marion (Task: 160, Employé: 159, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_BROUAGE_AUDREY.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : BROUAGE AUDREY (Task: 161, Employé: 160, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_ERTEL_CHARLES.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : ERTEL CHARLES (Task: 167, Employé: 166, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: PDF supprimé : ../RH_PAGES/00_PDF_CHECKLIST/CHECKLIST_LEDUC_THOMAS.pdf
+[2025-10-08 13:49:56] CLEANUP: Suppression réussie : LEDUC THOMAS (Task: 173, Employé: 172, Clôturé: 2025-04-01)
+[2025-10-08 13:49:56] CLEANUP: Transaction validée - 96 entrées supprimées avec succès
+[2025-10-08 13:49:56] CLEANUP: Temps d'exécution : 0.27 secondes

@@ -1,0 +1,42 @@
+
+<?php
+use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\Exception;
+
+// Inclure automatiquement avec Composer
+//require 'vendor/autoload.php';
+
+// Sinon, inclure manuellement les fichiers si tu n'utilises pas Composer
+require '../../01_includes/PHPMailer/src/Exception.php';
+require '../../01_includes/PHPMailer/src/PHPMailer.php';
+require '../../01_includes/PHPMailer/src/SMTP.php';
+
+$mail = new PHPMailer(true);
+
+try {
+    // Configuration SMTP pour Outlook
+    $mail->isSMTP();
+    $mail->Host       = 'smtp.office365.com';      // Serveur SMTP Outlook/Office365
+    $mail->SMTPAuth   = true;
+    $mail->Username   = 'serveur@groupemichel.com';   // Ton adresse Outlook
+    $mail->Password   = 'Serv00';        // Ton mot de passe Outlook
+    $mail->SMTPSecure = 'tls';                     // Sécurité TLS
+    $mail->Port       = 587;                       // Port TLS pour Outlook
+
+    // Expéditeur
+    $mail->setFrom('serveur@groupemichel.com', 'Serveur');
+
+    // Destinataire
+    $mail->addAddress('informatique@groupemichel.com', 'Groupe Informatique JCMI');
+
+    // Contenu du mail
+    $mail->isHTML(true);                                  
+    $mail->Subject = 'Sujet du message';
+    $mail->Body    = '<b>Voici le corps HTML du mail</b>';
+    $mail->AltBody = 'Voici la version texte simple du message';
+
+    $mail->send();
+    echo '✅ Message envoyé avec succès';
+} catch (Exception $e) {
+    echo "❌ Le message n’a pas pu être envoyé. Erreur : {$mail->ErrorInfo}";
+}
